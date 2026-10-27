@@ -1,0 +1,1 @@
+{"name": "yampi-mcp", "main": "src/index.ts", "compatibility_date": "2025-11-01", "compatibility_flags": ["nodejs_compat"], "observability": {"enabled": true}, "kv_namespaces": [{"binding": "OAUTH_KV", "id": "da423d00ab9b49afa5f732036ec4a4d7"}]}
